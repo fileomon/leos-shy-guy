@@ -1,5 +1,6 @@
 # Leo's SCP-096 Demonstration
 Release date: August 8, 2026
+
 Play now: https://www.roblox.com/games/99720263294059/Leos-SCP-096-Demonstration
 
 ## About

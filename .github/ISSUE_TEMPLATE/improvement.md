@@ -13,8 +13,12 @@ Which part of the game is this about?
 ## What should change?
 Describe how it should look, feel, or work afterwards.
 
-## Why?
-What does this improve for players?
+## Size and estimated duration
+- [ ] Small: <2 weeks
+- [ ] Medium: <3 months
+- [ ] Large: >3 months
+
+Notes on the time estimate (optional):
 
 ## Extra info
 Reference images, links, or notes.

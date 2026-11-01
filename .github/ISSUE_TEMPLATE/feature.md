@@ -15,5 +15,12 @@ Describe the idea in a sentence or two.
 - 
 - 
 
+## Size and estimated duration
+- [ ] Small: <2 weeks
+- [ ] Medium: <3 months
+- [ ] Large: >3 months
+
+Notes on the time estimate (optional):
+
 ## Extra info
 Reference images, links, or notes.

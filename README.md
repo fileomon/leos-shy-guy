@@ -15,4 +15,4 @@ See the [Releases](../../releases) page for changelogs.
 Please report it in my Roblox group by pressing [me](https://www.roblox.com/share/g/15114347).
 
 ## Roadmap
-Planned updates are tracked in the [Project board](https://github.com/users/fileomon/projects/7).
+Planned updates are tracked in the [Issues page](https://github.com/fileomon/leos-shy-guy/issues).

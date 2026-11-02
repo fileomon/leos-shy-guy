@@ -7,9 +7,6 @@ assignees: ''
 
 ---
 
-## Version
-
-
 ## Status
 
 

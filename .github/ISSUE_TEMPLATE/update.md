@@ -28,6 +28,4 @@ assignees: ''
 
 ## Fixed
 - [ ] 
-- [ ] 
-
-## Notes
+- [ ]

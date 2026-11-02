@@ -2,7 +2,7 @@
 name: Bug report
 about: Report something that is broken in the game
 title: "[BUG]"
-labels: bug, feature, improvement
+labels: bug, improvement
 assignees: fileomon
 
 ---
